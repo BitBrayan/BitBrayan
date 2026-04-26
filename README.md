@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:00C2FF&height=170&section=header&text=Brayan%20Dantas&fontSize=42&fontColor=ffffff&desc=I.T%20Technician%20%7C%20Computer%20Science%20Student&descSize=16&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:00C2FF&height=170&section=header&text=Brayan%20Dantas&fontSize=42&fontColor=ffffff"/>
 
 <p align="center">
   🎓 I.T Technician • 📚 Computer Science Student
