@@ -60,7 +60,7 @@
 - 🎓 Certified I.T Technician  
 - 📚 Currently majoring in Computer Science  
 - 💻 Passionate about Web Development  
-- 🚀 Learning JavaScript, Node.js and modern web technologies  
+- 🚀 Learning JavaScript, Node.js and modern technologies  
 - 🎯 Focused on building real projects and growing as a developer  
 - 🇧🇷 Brazil  
 
@@ -77,6 +77,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</p>
+
+---
+
+## 🕹️ Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bitbrayan/bitbrayan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bitbrayan/bitbrayan/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/bitbrayan/bitbrayan/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
