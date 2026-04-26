@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:00C2FF&height=170&section=header&text=Brayan%20Dantas&fontSize=42&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Web+Developer;Computer+Science+Student;Always+Learning"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Computer+Science+Student;Always+Learning"/>
 </p>
 
 <p align="center">
